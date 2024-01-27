@@ -1123,7 +1123,8 @@ header .logo a {
 	color: transparent;
 	width: 92px;
 	height: 15px;
-	background: url("../images/pp.jpg") no-repeat center;
+	/* background: url("../images/pp.jpg") no-repeat center; */
+	background: url(https://i.postimg.cc/yYhK8Bww/pp.jpg) no-repeat center;
 	border-color: #4a95cc;
 	background-size: 92px 90px;
 }
@@ -1299,7 +1300,8 @@ header .logo a {
  * ------------------------------------------------------------------- 
  */
 #intro {
-	background: #151515 url(../images/intro-bg.jpg) no-repeat center bottom;
+	/* background: #151515 url(../images/intro-bg.jpg) no-repeat center bottom; */
+	background: #151515 url(https://i.postimg.cc/8CrpKyGB/intro-bg.jpg) no-repeat center bottom;
 	-webkit-background-size: cover;
 	-moz-background-size: cover;
 	background-size: cover;
@@ -2100,7 +2102,8 @@ header .logo a {
  * ------------------------------------------------------------------- 
  */
 #services {
-	background: #313131 url(../images/bg.jpg) no-repeat center;
+	/* background: #313131 url(../images/bg.jpg) no-repeat center; */
+	background: #313131 url(https://i.postimg.cc/zGWpCcGY/bg.jpg) no-repeat center;
 	-webkit-background-size: cover;
 	-moz-background-size: cover;
 	background-size: cover;
